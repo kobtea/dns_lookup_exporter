@@ -1,0 +1,4 @@
+static:
+  targets:
+    - prometheus.io
+    - github.com
